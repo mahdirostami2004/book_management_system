@@ -1,23 +1,27 @@
 # Book Management System
 
-A simple and lightweight book management system built with [Python / Django / Flask / etc. – adjust as needed].
+A simple, lightweight desktop application to manage a book collection, built with Python's standard libraries. This project demonstrates a complete CRUD (Create, Read, Update, Delete) interface using Tkinter for GUI and SQLite for persistent data storage.
 
-## Features
+## ✨ Features
 
-- Add, edit, and delete books
-- Search by title, author, or publication year
-- Display books in a sortable table
-- Persistent storage using a database (SQLite / PostgreSQL)
+- **Add, Edit, Delete Books** – Full CRUD operations.
+- **Search by Title or Author** – Quick and easy lookup.
+- **Persistent Database** – Uses SQLite3, no separate server needed.
+- **User‑friendly GUI** – Clean interface built with Tkinter.
+- **Sales & Store Management** – Additional modules to track sales and manage store inventory (shown in screenshots).
 
-## Screenshots
+## 🖼️ Screenshots
 
-| Home | Add Book | Search | Book List |
-|------|----------|--------|------------|
-| ![1](project_images/1.png) | ![2](project_images/2.png) | ![3](project_images/3.png) | ![4](project_images/4.png) |
+| About / Info | Book Management | Sales Dashboard | Store Management |
+|:------------:|:---------------:|:---------------:|:----------------:|
+| ![About](about.png) | ![Book Management](book_management.png) | ![Sales](sales.png) | ![Store Management](store_management.png) |
 
-Or in a row:
+## 🚀 Getting Started
 
-<img src="project_images/1.png" width="200"/> <img src="project_images/2.png" width="200"/> <img src="project_images/3.png" width="200"/> <img src="project_images/4.png" width="200"/>
+### Prerequisites
+
+- Python 3.x (tested with 3.8+)
+- No external packages needed – uses `tkinter` and `sqlite3` (both included with Python).
 
 ## How to Run
 
@@ -31,3 +35,5 @@ pip install -r requirements.txt
 
 # Run the application
 python src/main.py   # adjust according to your project structure
+
+
