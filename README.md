@@ -12,18 +12,16 @@ A simple and lightweight book management system built with Python, SQLite, and T
 
 ## Screenshots
 
-**About / Info**  
-<img src="project_images/about.png" width="300">
-
-**Book Management**  
-<img src="project_images/book_management.png" width="300">
-
-**Sales Dashboard**  
-<img src="project_images/sales.png" width="300">
-
-**Store Management**  
-<img src="project_images/store_management.png" width="300">
-
+<table>
+  <tr>
+    <td><b>About / Info</b><br><img src="project_images/about.png" width="300"></td>
+    <td><b>Book Management</b><br><img src="project_images/book_management.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><b>Sales Dashboard</b><br><img src="project_images/sales.png" width="300"></td>
+    <td><b>Store Management</b><br><img src="project_images/store_management.png" width="300"></td>
+  </tr>
+</table>
 ## How to Run
 
 ```bash
