@@ -22,7 +22,8 @@ A simple and lightweight book management system built with Python, SQLite, and T
     <td><b>Store Management</b><br><img src="project_images/store_management.png" width="300"></td>
   </tr>
 </table>
-## How to Run
+
+** How to Run **
 
 ```bash
 git clone https://github.com/mahdirostami2004/book_management_system.git
