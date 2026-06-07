@@ -23,10 +23,11 @@ A simple and lightweight book management system built with Python, SQLite, and T
   </tr>
 </table>
 
-** How to Run **
+**How to Run**
 
 ```bash
 git clone https://github.com/mahdirostami2004/book_management_system.git
 cd book_management_system
 pip install -r requirements.txt   # (no external deps)
 python src/main.py
+```
