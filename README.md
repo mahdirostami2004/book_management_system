@@ -1,10 +1,6 @@
 # Book Management System
 
-<<<<<<< HEAD
-A simple, lightweight desktop application to manage a book collection, built with Python's standard libraries. This project demonstrates a complete CRUD (Create, Read, Update, Delete) interface using Tkinter for GUI and SQLite for persistent data storage.
-=======
-A simple and lightweight book management system built with Python SQlite & TK.
->>>>>>> a433d265ffb9d831f07300ac933fa54a8c219da2
+A simple and lightweight book management system built with Python, SQLite, and Tkinter. This project demonstrates a complete CRUD (Create, Read, Update, Delete) interface using Tkinter for GUI and SQLite for persistent data storage.
 
 ## ✨ Features
 
@@ -27,7 +23,7 @@ A simple and lightweight book management system built with Python SQlite & TK.
 - Python 3.x (tested with 3.8+)
 - No external packages needed – uses `tkinter` and `sqlite3` (both included with Python).
 
-## How to Run
+### How to Run
 
 ```bash
 # Clone the repository
@@ -39,8 +35,3 @@ pip install -r requirements.txt
 
 # Run the application
 python src/main.py   # adjust according to your project structure
-<<<<<<< HEAD
-
-
-=======
->>>>>>> a433d265ffb9d831f07300ac933fa54a8c219da2
