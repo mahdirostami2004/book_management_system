@@ -1,37 +1,33 @@
 # Book Management System
 
-A simple and lightweight book management system built with Python, SQLite, and Tkinter. This project demonstrates a complete CRUD (Create, Read, Update, Delete) interface using Tkinter for GUI and SQLite for persistent data storage.
+A simple and lightweight book management system built with Python, SQLite, and Tkinter.
 
-## ✨ Features
+## Features
 
-- **Add, Edit, Delete Books** – Full CRUD operations.
-- **Search by Title or Author** – Quick and easy lookup.
-- **Persistent Database** – Uses SQLite3, no separate server needed.
-- **User‑friendly GUI** – Clean interface built with Tkinter.
-- **Sales & Store Management** – Additional modules to track sales and manage store inventory (shown in screenshots).
+- Add, Edit, Delete Books – Full CRUD operations
+- Search by Title or Author
+- Persistent SQLite3 database
+- User-friendly Tkinter GUI
+- Sales & Store Management modules
 
-## 🖼️ Screenshots
+## Screenshots
 
-| About / Info | Book Management | Sales Dashboard | Store Management |
-|:------------:|:---------------:|:---------------:|:----------------:|
-| ![About](about.png) | ![Book Management](book_management.png) | ![Sales](sales.png) | ![Store Management](store_management.png) |
+**About / Info**  
+<img src="about.png" width="300">
 
-## 🚀 Getting Started
+**Book Management**  
+<img src="book_management.png" width="300">
 
-### Prerequisites
+**Sales Dashboard**  
+<img src="sales.png" width="300">
 
-- Python 3.x (tested with 3.8+)
-- No external packages needed – uses `tkinter` and `sqlite3` (both included with Python).
+**Store Management**  
+<img src="store_management.png" width="300">
 
-### How to Run
+## How to Run
 
 ```bash
-# Clone the repository
 git clone https://github.com/mahdirostami2004/book_management_system.git
 cd book_management_system
-
-# Install dependencies (if any)
-pip install -r requirements.txt
-
-# Run the application
-python src/main.py   # adjust according to your project structure
+pip install -r requirements.txt   # (no external deps)
+python src/main.py
