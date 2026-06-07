@@ -13,16 +13,16 @@ A simple and lightweight book management system built with Python, SQLite, and T
 ## Screenshots
 
 **About / Info**  
-<img src="about.png" width="300">
+<img src="project_images/about.png" width="300">
 
 **Book Management**  
-<img src="book_management.png" width="300">
+<img src="project_images/book_management.png" width="300">
 
 **Sales Dashboard**  
-<img src="sales.png" width="300">
+<img src="project_images/sales.png" width="300">
 
 **Store Management**  
-<img src="store_management.png" width="300">
+<img src="project_images/store_management.png" width="300">
 
 ## How to Run
 
