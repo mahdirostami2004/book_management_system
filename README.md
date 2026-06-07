@@ -1,6 +1,6 @@
 # Book Management System
 
-A simple and lightweight book management system built with [Python / Django / Flask / etc. – adjust as needed].
+A simple and lightweight book management system built with Python SQlite & TK.
 
 ## Features
 
